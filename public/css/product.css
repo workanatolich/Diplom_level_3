@@ -1,0 +1,15 @@
+.review-form-create, .review-form-edit {
+    display:none;
+}
+
+.action {
+    padding: 0;
+}
+
+.review-form-view {
+    display: block;
+}
+
+.form-edit, .form-delete {
+    display: inline;
+}

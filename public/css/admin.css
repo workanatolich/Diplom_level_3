@@ -1,0 +1,29 @@
+body {
+  display: flex;
+  flex-direction: column;
+  height: 100%;
+  min-height: 100vh;
+}
+
+main {
+  flex-grow: 1;
+}
+
+footer {
+  flex-shrink: 0;
+}
+
+.nav-link {
+  padding: 0;
+  text-decoration: none;
+  color: white;
+}
+
+.nav-link:hover {
+  color:aqua;
+}
+
+.nav-item {
+  padding: 0;
+  margin-left: 10px;
+}
