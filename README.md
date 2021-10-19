@@ -12,3 +12,5 @@
 - Задать PDO в App\Configs\ContainerDefinitions.php
 
 Конфиг Nginx такой из-за специфики работы Open Server
+
+Дамп базы данных находится по пути: public/dbtest.sql
